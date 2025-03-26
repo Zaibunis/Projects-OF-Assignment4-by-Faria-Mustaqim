@@ -76,7 +76,7 @@ Welcome to the **Google Colab Projects!** 🔥 Click on the links below to acces
 2. Clone this repository:  
    ```bash
    git clone https://github.com/Zaibunis/Projects-OF-Assignment4-by-Faria-Mustaqim.git
-   cd your-name
+   cd Projects-OF-Assignment4-by-Faria-Mustaqim
    
 💡 Why These Projects?
 ✅ Real-World Applications – Work on projects that are useful in daily life.
