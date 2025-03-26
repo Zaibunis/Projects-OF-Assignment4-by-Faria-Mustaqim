@@ -37,6 +37,8 @@ Each project covers key **fundamentals of Python**, including **loops, condition
 | ✅ Project | 🔗 Link | 📜 Description |
 |-----------|---------|---------------|
 | **QR Code Encoder/Decoder** | [Open in Colab](https://colab.research.google.com/drive/1UhFqjqq3xnogzA4_TpTVVEQpaZepYrGB?usp=sharing) | Create a program to generate and decode QR codes using Python. |
+| **Tic-Tac-Toe (Player vs Player)** | [Open in Colab](https://colab.research.google.com/drive/1mFJV4DQ2602jrkGYgsQMXg6tFQJRQ6uX?usp=sharing) | Play a classic Tic-Tac-Toe game in Python with emoji support. |
+| **Tic-Tac-Toe AI (Player vs Computer)** | [Open in Colab](https://colab.research.google.com/drive/1plneqkcdetX4ubStk6Ic2oSJMM9A8R7C?usp=sharing) | Challenge an AI opponent in a smart Tic-Tac-Toe game. |
 | **Binary Search Algorithm** | [Open in Colab](https://colab.research.google.com/drive/1cS0P1ttE1wWEjSrAaGVbEgaAuNCQkiW8?usp=sharing) | Implement an efficient searching algorithm for sorted lists. |
 | **Bulk File Renamer** | [Open in Colab](https://colab.research.google.com/drive/1SVM0y3WyMKNot2LASpAD2X1Ilwta4tYq?usp=sharing) | Automate renaming multiple files in a directory with Python. |
 | **Weather Program** | [Open in Colab](https://colab.research.google.com/drive/1a0ysAv3tKu474__u1s--4PodP7ohuPCf?usp=sharing) | Fetch real-time weather data using an API and display it dynamically. |
